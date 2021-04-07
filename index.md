@@ -11,8 +11,11 @@ Aren't they cute?
 ![Image](https://ichef.bbci.co.uk/news/976/cpsprodpb/9F1A/production/_113303704_7bb94451-94ea-4c6f-8956-74c43fa304d6.jpg)
 
 ### Looking for my code? Links here:
-[![Python](![Image](https://user-images.githubusercontent.com/54362677/113917639-6dac2000-97af-11eb-8f51-f3c1d5733c21.png)
-)](https://hudsonriverpark.org/app/uploads/2020/08/horseshoe-crab-wetlab-invert-hero-scaled.jpg)
+<a href="https://user-images.githubusercontent.com/54362677/113918938-00998a00-97b1-11eb-96ff-20143ff0cc64.png">
+         <img alt="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"
+         width=150" height="70"> </a>
 
-[![R](![Image](https://www.r-project.org/logo/Rlogo.svg)
-)](https://hudsonriverpark.org/app/uploads/2020/08/horseshoe-crab-wetlab-invert-hero-scaled.jpg)
+<a href="https://sbocon.github.io/geol593/Teaching_R">
+         <img alt="R" src="https://www.r-project.org/logo/Rlogo.svg"
+         width=150" height="70"> </a>
+                               
