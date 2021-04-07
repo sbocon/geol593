@@ -1,7 +1,3 @@
-permalink: testing
-layout: page
----
-
 For Loops & RMarkdown
 ================
 Sam Ocon
