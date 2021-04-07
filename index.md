@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+---
+title: "Home"
+author: Sam ocon
+---
 
-You can use the [editor on GitHub](https://github.com/sbocon/geol593/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# This is the home page for Sam Ocon's final project in GEOL 593, where they will be comparing evolutionary rates calculated using different technical methods. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The group of interest for this study are Xiphosura, which are also known as horseshoe crabs.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbocon/geol593/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Aren't they cute?
+![Image](https://ichef.bbci.co.uk/news/976/cpsprodpb/9F1A/production/_113303704_7bb94451-94ea-4c6f-8956-74c43fa304d6.jpg)
