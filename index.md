@@ -11,6 +11,8 @@ Aren't they cute?
 ![Image](https://ichef.bbci.co.uk/news/976/cpsprodpb/9F1A/production/_113303704_7bb94451-94ea-4c6f-8956-74c43fa304d6.jpg)
 
 ### Looking for my code? Links here:
+
+<html>
 <a href="https://user-images.githubusercontent.com/54362677/113918938-00998a00-97b1-11eb-96ff-20143ff0cc64.png">
          <img alt="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png"
          width=150" height="70"> </a>
@@ -18,4 +20,4 @@ Aren't they cute?
 <a href="https://sbocon.github.io/geol593/Teaching_R">
          <img alt="R" src="https://www.r-project.org/logo/Rlogo.svg"
          width=150" height="70"> </a>
-                               
+                               </html>
