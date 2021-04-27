@@ -12,4 +12,15 @@ Aren't they cute?
 
 ### Looking for my code? Links here:
 
-[Next](https://sbocon.github.io/geol593/P1)
+[Next (Page 1)](https://sbocon.github.io/geol593/P1)
+
+### All links:
+[Home](https://sbocon.github.io/geol593/)
+
+[Page 1](https://sbocon.github.io/geol593/P1)
+
+[Page 2](https://sbocon.github.io/geol593/P2)
+
+[Page 3](https://sbocon.github.io/geol593/P3)
+
+[Page 4](https://sbocon.github.io/geol593/P4)
