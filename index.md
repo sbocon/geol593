@@ -12,6 +12,4 @@ Aren't they cute?
 
 ### Looking for my code? Links here:
 
-[Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
-
-[R](https://sbocon.github.io/geol593/Teaching_R)
+[Next](https://sbocon.github.io/geol593/P1)
