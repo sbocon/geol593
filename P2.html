@@ -1678,7 +1678,7 @@ src: url(data:application/font-sfnt;base64,AAEAAAARAQAABAAQR0RFRgs+Cz8AAjwQAAAAQ
 <div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true"></a><span class="co">#Reading my tree in as &quot;xipho&quot;</span></span>
 <span id="cb12-2"><a href="#cb12-2" aria-hidden="true"></a>xipho &lt;-<span class="st"> </span><span class="kw">read.nexus</span>(<span class="st">&quot;Data/xipho_tree_updated.tre&quot;</span>)</span></code></pre></div>
 <p>Now I have to read in the table of ages that James and I have worked together to create so that I can time scale the branches and estimate when different traits evolved.</p>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true"></a><span class="co">#Time Scaling the tree and breaking up polytomies randomly</span></span>
+<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true"></a><span class="co"># reading in FADS and LADs</span></span>
 <span id="cb13-2"><a href="#cb13-2" aria-hidden="true"></a>tip.ages &lt;-<span class="st"> </span><span class="kw">read.table</span>(<span class="st">&quot;Data/Tip_Ages_Ordered.txt&quot;</span>, <span class="dt">sep =</span> <span class="st">&quot;,&quot;</span>, <span class="dt">header =</span> <span class="ot">TRUE</span>, <span class="dt">row.names =</span> <span class="dv">1</span>)</span></code></pre></div>
 <hr />
 </div>
